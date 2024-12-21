@@ -1,0 +1,1 @@
+{"version":3,"file":"read-request.dto.js","sourceRoot":"","sources":["../../../src/requests/dto/read-request.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAAyC;AACzC,6CAA8C;AAE9C,MAAa,YAAY;CAOxB;AAPD,oCAOC;AADU;IALR,IAAA,qBAAW,EAAC;QACX,WAAW,EAAE,qBAAqB;QAClC,OAAO,EAAE,sCAAsC;KAChD,CAAC;IACD,IAAA,wBAAM,GAAE;;wCACW"}
